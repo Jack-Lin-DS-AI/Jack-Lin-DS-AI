@@ -1,4 +1,4 @@
-# Hello!  <img src="https://raw.githubusercontent.com/ChihHsuLin/ChihHsuLin/master/pic/wave.gif" width="30px">
+# Hello!  <img src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/wave.gif?raw=true" width="30px">
 
 
 <!--
