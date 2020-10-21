@@ -25,11 +25,11 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 📂Data type: tabular data  
 🛠️Skills: Deep learning, PyTorch, statistical tests  
 
-2. [Analysis of 5,500 Data Science Jobs (Medium post)](https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3?source=friends_link&sk=bbcc101e7d1292411f767cbf41dc21e3). 2020. 1,100+ views in a week.  
+2. Analysis of 5,500 Data Science Jobs. 2020. <[Medium post](https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3?source=friends_link&sk=bbcc101e7d1292411f767cbf41dc21e3)>.  1,100+ views in a week.  
 ❓Problem: What skills do data science jobs need?  
 🤔Why it's important: It's good to understand the trend for job seekers.  
 📝What I did: I extracted and cleaned 5,500 job descriptions from the internet. I summarized results and generated interactive plots to investigate the skills, location and the difference between data analysts, scientists, and engineers.  
-💡Findings:  <p align='center'><img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true"></p>  
+💡Findings:  <p align='center'><img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true"></p>
 📂Data type: tabular and text  
 🛠️Skills: Plotly, Seaborn, web scraping  
 
@@ -41,7 +41,7 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 📂Data type: image of 6 channels  
 🛠️Skills: PyTorch, data augmentation, image processing, convolutional neural networks  
 
-4. Accelerating variant triaging by machine learning. 2019. <a href="https://www.illumina.com/"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/illumina3.jpg?raw=true"></a> internship.  
+4. Accelerating Variant Triaging by Machine Learning. 2019. <a href="https://www.illumina.com/"><img height="25" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/illumina3.jpg?raw=true"></a> internship.  
 ❓Problem (classification): How to predict the clinically relevant variants to automate the triaging process?  
 🤔Why it's important: Successful predictions can reduce turn around time and provide timely information to facilitate clinical decisions.  
 📝What I did: I parsed json files and converted them to tabular data. I cleaned and merged internal data with external data. I developed a machine learning pipeline to reduce the manual time by 94%. I presented the results as a poster at an international annual conference (8,500 attendees, ~250 exhibiting companies).  
