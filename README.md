@@ -25,7 +25,7 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 📂Data type: tabular data  
 🛠️Skills: Deep learning, PyTorch, statistical tests  
 
-2. Analysis of 5,500 Data Science Jobs. 2020. <[Medium post](https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3?source=friends_link&sk=bbcc101e7d1292411f767cbf41dc21e3)>.  1,100+ views in a week.  
+2. Analysis of 5,500 Data Science Jobs. 2020. <[Blog](https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3?source=friends_link&sk=bbcc101e7d1292411f767cbf41dc21e3)>.  1,100+ views in a week.  
 ❓Problem: What skills do data science jobs need?  
 🤔Why it's important: It's good to understand the trend for job seekers.  
 📝What I did: I extracted and cleaned 5,500 job descriptions from the internet. I summarized results and generated interactive plots to investigate the skills, location and the difference between data analysts, scientists, and engineers.  
