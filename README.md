@@ -25,15 +25,13 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 📂Data type: tabular data  
 🛠️Skills: Deep learning, PyTorch, statistical tests  
 
-2. [Analysis of 5,500 Data Science Jobs](https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3?source=friends_link&sk=bbcc101e7d1292411f767cbf41dc21e3). 2020. 1,100+ views in a week.  
+2. [Analysis of 5,500 Data Science Jobs (Medium post)](https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3?source=friends_link&sk=bbcc101e7d1292411f767cbf41dc21e3). 2020. 1,100+ views in a week.  
 ❓Problem: What skills do data science jobs need?  
 🤔Why it's important: It's good to understand the trend for job seekers.  
 📝What I did: I extracted and cleaned 5,500 job descriptions from the internet. I summarized results and generated interactive plots to investigate the skills, location and the difference between data analysts, scientists, and engineers.  
-💡Findings:  
-<p align='center'><img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true">  </p>  
-
-      📂Data type: tabular and text  
-      🛠️Skills: Plotly, Seaborn, web scraping  
+💡Findings:  <p align='center'><img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true"></p>  
+📂Data type: tabular and text  
+🛠️Skills: Plotly, Seaborn, web scraping  
 
 3. [Kaggle Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification). 2019.  🏆 Top 3.0% (26/866) <[Code & Solution](https://github.com/ChihHsuLin/cellular_image_classification)>  
 ❓Problem (multiclass classification): How to classify 1,108 treatments based on the images of 4 different cell types?  
