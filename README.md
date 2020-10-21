@@ -30,9 +30,10 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 🤔Why it's important: It's good to understand the trend for job seekers.  
 📝What I did: I extracted and cleaned 5,500 job descriptions from the internet. I summarized results and generated interactive plots to investigate the skills, location and the difference between data analysts, scientists, and engineers.  
 💡Findings:  
-<img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true">  
-📂Data type: tabular and text  
-🛠️Skills: Plotly, Seaborn, web scraping  
+<p align='center'><img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true">  </p>  
+
+      📂Data type: tabular and text  
+      🛠️Skills: Plotly, Seaborn, web scraping  
 
 3. [Kaggle Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification). 2019.  🏆 Top 3.0% (26/866) <[Code & Solution](https://github.com/ChihHsuLin/cellular_image_classification)>  
 ❓Problem (multiclass classification): How to classify 1,108 treatments based on the images of 4 different cell types?  
