@@ -7,6 +7,7 @@
 <a href="https://www.kaggle.com/lin4mation"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/kaggle.png?raw=true"></a>
 <a href="https://medium.com/@chihhsulin/"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/medium.png?raw=true"></a>
 <a href="mailto:lin.chihhsu@gmail.com"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/mail.png?raw=true"></a>
+<a href="https://scholar.google.com/citations?user=0HGzuaEAAAAJ&hl=en"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/google-scholar.png?raw=true"></a>
 </p>
 
 My name is Chih-Hsu Lin. You can call me Jack.
@@ -90,3 +91,7 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 <a href="https://github.com/ChihHsuLin/cellular_image_classification">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChihHsuLin&repo=cellular_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/LichtargeLab/multimodal-network-diffusion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LichtargeLab&repo=multimodal-network-diffusion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
