@@ -16,7 +16,8 @@ During my 3-month internship in a top-tier biotech company, Illumina (with >7,00
 
 Projects
 -----
-1. Designing Interpretable Neural Networks by Prior Knowledge to Predict Cancer Drug Targets. 2020.  
+1. [Designing Interpretable Neural Networks by Prior Knowledge to Predict Cancer Drug Targets](https://github.com/LichtargeLab/BioVNN). 2021. <[Code](https://github.com/LichtargeLab/BioVNN)>  
+📖Published in [Bioinformatics](https://doi.org/10.1093/bioinformatics/btab137) (ranking in math & computational biology: 🏆3/59, top 5.1%)  
 ❓Problem (classification): How to predict personalized drug targets? How to design better neural network architecture?  
 🤔Why it's important: Better algorithms can accelerate therapeutic development and explains the predictions to earn people's trusts.  
 📝What I did: I invented and implemented a new and interpretable neural network algorithm that converges 35% faster, reduces 200
@@ -83,9 +84,8 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 </a>
 
 <a href="https://github.com/LichtargeLab/multimodal-network-diffusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LichtargeLab&repo=multimodal-network-diffusion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LichtargeLab&repo=BioVNN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/ChihHsuLin/cellular_image_classification">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChihHsuLin&repo=cellular_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
