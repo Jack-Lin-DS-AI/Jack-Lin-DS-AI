@@ -1,13 +1,13 @@
-# [![header](https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/github_banner.png?raw=true)](https://github.com/ChihHsuLin)
+# [![header](https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/github_banner.png?raw=true)](https://github.com/Jack-Lin-DS-AI)
 
-# Hello!  <img src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/wave.gif?raw=true" width="30px"> Welcome to Jack's page
+# Hello!  <img src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/wave.gif?raw=true" width="30px"> Welcome to Jack's page
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/chihhsulin/"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/linkedin.png?raw=true"></a>
-<a href="https://www.kaggle.com/lin4mation"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/kaggle.png?raw=true"></a>
-<a href="https://medium.com/@chihhsulin/"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/medium.png?raw=true"></a>
-<a href="mailto:lin.chihhsu@gmail.com"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/mail.png?raw=true"></a>
-<a href="https://scholar.google.com/citations?user=0HGzuaEAAAAJ&hl=en"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/google-scholar.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/jacklindsai/"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/linkedin.png?raw=true"></a>
+<a href="https://www.kaggle.com/lin4mation"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/kaggle.png?raw=true"></a>
+<a href="https://medium.com/@chihhsulin/"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/medium.png?raw=true"></a>
+<a href="mailto:jack.lin.ds.ai@gmail.com"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/mail.png?raw=true"></a>
+<a href="https://scholar.google.com/citations?user=0HGzuaEAAAAJ&hl=en"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/google-scholar.png?raw=true"></a>
 </p>
 
 My name is Chih-Hsu Lin. You can call me Jack.  
@@ -32,11 +32,11 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 ❓Problem: What skills do data science jobs need?  
 🤔Why it's important: It's good to understand the trend for job seekers.  
 📝What I did: I extracted and cleaned 5,500 job descriptions from the internet. I summarized results and generated interactive plots to investigate the skills, location and the difference between data analysts, scientists, and engineers.  
-💡Findings:  <p align='center'><img height="100" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/skills.png?raw=true"></p>
+💡Findings:  <p align='center'><img height="100" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/skills.png?raw=true"></p>
 📂Data type: tabular and text  
 🛠️Skills: Plotly, Seaborn, web scraping  
 
-3. [Kaggle Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification). 2019.  🏆 Top 3.0% (26/866) <[Code & Solution](https://github.com/ChihHsuLin/cellular_image_classification)>  
+3. [Kaggle Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification). 2019.  🏆 Top 3.0% (26/866) <[Code & Solution](https://github.com/Jack-Lin-DS-AI/cellular_image_classification)>  
 ❓Problem (multiclass classification): How to classify 1,108 treatments based on the images of 4 different cell types?  
 🤔Why it's important: Accurate and precise image classification can expedite the drug discovery process and improve the understanding of drug effects on cells.  
 📝What I did:  I built a deep learning pipeline using state of the art convolutional neural networks to achieved accuracy of 0.97757.  
@@ -44,7 +44,7 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 📂Data type: image of 6 channels  
 🛠️Skills: PyTorch, data augmentation, image processing, convolutional neural networks  
 
-4. Accelerating Variant Triaging by Machine Learning. 2019. <a href="https://www.illumina.com/"><img height="25" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/illumina3.jpg?raw=true"></a> internship.  
+4. Accelerating Variant Triaging by Machine Learning. 2019. <a href="https://www.illumina.com/"><img height="25" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/illumina3.jpg?raw=true"></a> internship.  
 ❓Problem (classification): How to predict the clinically relevant variants to automate the triaging process?  
 🤔Why it's important: Successful predictions can reduce turn around time and provide timely information to facilitate clinical decisions.  
 📝What I did: I parsed json files and converted them to tabular data. I cleaned and merged internal data with external data. I developed a machine learning pipeline to reduce the manual time by 94%. I presented the results as a poster at an international annual conference (8,500 attendees, ~250 exhibiting companies).  
