@@ -10,8 +10,9 @@
 <a href="https://scholar.google.com/citations?user=0HGzuaEAAAAJ&hl=en"><img height="30" src="https://github.com/ChihHsuLin/ChihHsuLin/blob/main/pic/google-scholar.png?raw=true"></a>
 </p>
 
-My name is Chih-Hsu Lin. You can call me Jack.
-I love data and have won 🏆top 3%-6% in 3 Kaggle competitions (top 2.2% of active users).
+My name is Chih-Hsu Lin. You can call me Jack.  
+I am a senior data scientist at [C3.ai](https://c3.ai) (NYSE: AI) in the San Francisco Bay Area.  
+I love data and have won 🏆top 3%-6% in 3 Kaggle competitions (top 2.9% of active users).  
 I received a 🎓PhD degree with quantitative concentration.  
 During my 3-month internship in a top-tier biotech company, Illumina (with >7,000 employees), I not only reduced 94% time of manual curation by machine learning pipeline, I also led a 11-person team to win 🏆 the 1st place in business case competition.
 
@@ -77,19 +78,19 @@ times of parameters, and marginally outperforms (AUROC>0.88) traditional neural 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ChihHsuLin/ChihHsuLin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChihHsuLin&hide=java,html,jupyter%20notebook,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Lin-DS-AI&hide=java,html,jupyter%20notebook,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/ChihHsuLin/ChihHsuLin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChihHsuLin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jack's GitHub Stats" />
+<a href="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jack-Lin-DS-AI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jack's GitHub Stats" />
 </a>
 
 <a href="https://github.com/LichtargeLab/multimodal-network-diffusion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LichtargeLab&repo=BioVNN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ChihHsuLin/cellular_image_classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChihHsuLin&repo=cellular_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Jack-Lin-DS-AI/cellular_image_classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Lin-DS-AI&repo=cellular_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <a href="https://github.com/LichtargeLab/multimodal-network-diffusion">
