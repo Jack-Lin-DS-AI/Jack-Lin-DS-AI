@@ -5,7 +5,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/jacklindsai/"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/linkedin.png?raw=true"></a>
 <a href="https://www.kaggle.com/lin4mation"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/kaggle.png?raw=true"></a>
-<a href="https://medium.com/@chihhsulin/"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/medium.png?raw=true"></a>
+<a href="https://medium.com/@jacklindsai"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/medium.png?raw=true"></a>
 <a href="mailto:jack.lin.ds.ai@gmail.com"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/mail.png?raw=true"></a>
 <a href="https://scholar.google.com/citations?user=0HGzuaEAAAAJ&hl=en"><img height="30" src="https://github.com/Jack-Lin-DS-AI/Jack-Lin-DS-AI/blob/main/pic/google-scholar.png?raw=true"></a>
 </p>
